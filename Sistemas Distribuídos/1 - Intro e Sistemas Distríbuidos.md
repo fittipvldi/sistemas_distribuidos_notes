@@ -17,7 +17,7 @@ Saber documentar e interpretar troubleshooting.
 
 ### Monólitos
 
-Antes tínhamos sistemas desenvolvidos como um só, em uma máquina, com backend, fron-end e databese..
+Antes tínhamos sistemas desenvolvidos como um só, em uma máquina, com backend, fron-end e database..
 
 ---
 

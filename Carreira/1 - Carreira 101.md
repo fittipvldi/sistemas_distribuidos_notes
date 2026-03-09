@@ -1,40 +1,39 @@
 ### Anotar
 
-Tudo que você faz de interessante e mudanças, você deve anotar para que no 1:1, houver discussões.
+Registre tudo que você faz de relevante no dia a dia — conquistas, mudanças implementadas, problemas resolvidos, aprendizados. Essas anotações são fundamentais para o 1:1 com seu gestor, pois constroem uma base sólida para discussões sobre seu desempenho, evolução e próximos passos. Sem registro, conquistas são esquecidas.
 
 ---
 
 ### Se moldar ao mercado
 
-Se o mercado está pedindo, você deve estar apto para isso, surfar na onda.
+Fique atento ao que o mercado está pedindo e se prepare antes que vire obrigação. Se uma tecnologia ou habilidade está em alta demanda nas vagas da sua área, é sinal para você já estar aprendendo. Surfe a onda antes dela chegar, não depois.
 
 ---
 
 ### Plano de Carreira
 
-O plano de carreira empresarial está fora do nosso controle. Tem empresas que podem te promover por tempo, por afinidade ou realmente por mérito.
+O plano de carreira dentro de uma empresa está, em grande parte, fora do seu controle. Cada empresa tem seus próprios critérios de promoção. Algumas promovem por tempo de casa, outras por afinidade com gestores, e outras de fato por mérito. Entender como a empresa onde você está funciona é essencial para não criar expectativas erradas e saber quando faz sentido buscar crescimento em outro lugar.
 
 ---
 
 ### Dicas do 1:1
 
-Coisas que eu estou fazendo e não deveria fazer.
+O 1:1 é uma ferramenta de desenvolvimento, não apenas uma reunião de status. Use-o para refletir e discutir três pontos:
 
-Coisas que eu não faço e deveria fazer.
-
-Coisas que eu faço e devo continuar fazendo.
+**O que estou fazendo e não deveria**: hábitos ou comportamentos que atrapalham sua evolução;
+**O que não faço e deveria**: lacunas que você precisa preencher para crescer;
+**O que faço e devo continuar**: pontos fortes que merecem ser mantidos e reconhecidos;
 
 ---
 
 ### Financeiro
 
-Sua remuneração deve ser a prioridade, comparado ao cargo oferecido ou mesa de pimbolim no escritório.
+Sua remuneração deve ser prioridade na hora de avaliar uma oportunidade. Benefícios superficiais como mesa de pebolim, snacks ou ambientes descolados não pagam contas nem constroem patrimônio. Avalie sempre o salário, benefícios reais (plano de saúde, VR, VA, PLR) e o cargo oferecido antes de qualquer outro fator.
 
 ---
 
 ### Dry-run
 
-Realizar diversos "dry-runs" referente a vagas existentes. Testes de entrevistas baseadas nos requisitos das vagas.
-
+Faça simulações de entrevistas com frequência, mesmo sem intenção imediata de trocar de emprego. Pegue vagas reais do mercado, leia os requisitos e simule como você responderia cada pergunta técnica e comportamental. Isso mantém você afiado, revela gaps no seu conhecimento e reduz o nervosismo quando uma oportunidade real aparecer.
 
 

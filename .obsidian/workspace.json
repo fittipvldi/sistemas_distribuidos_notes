@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 201.5
   },
   "right": {
     "id": "4ba19bbf56efc0a9",
@@ -185,8 +185,11 @@
   },
   "active": "0bfed3e710a1b1c3",
   "lastOpenFiles": [
+    "Redes/1 - OSI - TCP IP.md",
     "Sistemas Distribuídos/1 - Intro e Sistemas Distríbuidos.md",
     "Carreira/1 - Carreira 101.md",
+    "README.md",
+    "Redes",
     "Carreira",
     "Sistemas Distribuídos"
   ]
