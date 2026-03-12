@@ -1,2 +1,2 @@
-# sistemas_distribuidos_notes
-Anotações e estudos sobre Sistemas Distribuídos, com base na "Mentoria do Mateus"
+# sre_mentorship_notes
+Anotações e estudos sobre, com base na "Mentoria do Mateus"
