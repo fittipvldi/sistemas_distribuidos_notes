@@ -1,7 +1,8 @@
 
 ### Base
 
-Com tantas tecnologias que temos a disposição no Hype, independente do segmento de DevOps, Dev ou outros, a competição pra quem sabe mais ferramentas se tornou usual, mas o que está se tornando o diferencial, é a base.
+Com tantas tecnologias surgindo no mercado. Frameworks, ferramentas, plataformas a competição por "quem conhece mais ferramentas" se tornou comum em todas as áreas, seja DevOps, Dev ou outras. Porém, o que está se tornando o verdadeiro diferencial profissional não é a quantidade de ferramentas que você domina, mas sim a solidez da sua base técnica.
+Profissionais com base sólida conseguem aprender novas ferramentas mais rápido, tomar decisões melhores e resolver problemas com mais autonomia, independente da tecnologia envolvida.
 
 ---
 
@@ -17,12 +18,11 @@ Saber documentar e interpretar troubleshooting.
 
 ### Monólitos
 
-Antes tínhamos sistemas desenvolvidos como um só, em uma máquina, com backend, fron-end e database..
+Antes da era dos sistemas distribuídos, as aplicações eram desenvolvidas como um único bloco. Backend, frontend e banco de dados rodavam juntos, na mesma máquina, como um sistema unificado.
 
 ---
 
 ### Sistemas Distribuídos
 
-Sistemas que rodam em diversas máquinas e se comunicam, a grosso modo..
-
+Um sistema distribuído é qualquer sistema onde componentes rodando em máquinas diferentes precisam se comunicar via rede para realizar uma tarefa.
 
